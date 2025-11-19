@@ -149,9 +149,9 @@ Your input file **must** include a header column named `mobile`.
 
 ```diff
 mobile,firstName,lastName,package
-254712345678,John,Doe,Gold
-0712345678,Jane,Smith,Silver
-+254700111222,Bob,Brown,Platinum
+254712345678,John,Doe,5550
+0712345678,Jane,Smith,2880
++254700111222,Bob,Brown,2542
 ```
 
 ### Installation & Setup
