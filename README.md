@@ -157,6 +157,14 @@ mobile,firstName,lastName,package
 254712345678,John,Doe,5550
 0712345678,Jane,Smith,2880
 +254700111222,Bob,Brown,2542
+
+## 📂 Sample Dataset
+
+If you don’t have your own CSV file to test the application, you can use this ready-made dataset:  
+📥 [Download Sample Dataset](https://github.com/joelorie/csv-cleaner/blob/main/Sample%20Dataset%20-%20Sample%20Dataset.csv)
+
+It includes the required `mobile` column and optional fields like `firstName`, `lastName`, and `package`.
+
 ```
 
 ### Installation & Setup
