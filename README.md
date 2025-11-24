@@ -3,6 +3,8 @@
 
 > A powerful, interactive **React** web application for cleaning, validating, categorizing, and exporting mobile number datasets. Perfect for prepping bulk customer lists, marketing data, and CRM imports.
 
+🌐 **Live Demo:** [https://csv-cleaner-six.vercel.app](https://csv-cleaner-six.vercel.app)
+
 ---
 
 ## 🚀 Key Features at a Glance
@@ -138,6 +140,9 @@ src/
 ---
 
 ## 🛠️ Getting Started
+
+You can try the **live deployed version** here:  
+🌐 [https://csv-cleaner-six.vercel.app](https://csv-cleaner-six.vercel.app)
 
 ### 📄 CSV Format Requirements
 
